@@ -1,0 +1,7 @@
+Kiryhlauncher2/
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
